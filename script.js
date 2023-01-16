@@ -88,7 +88,7 @@ const mainFunc = () => {
     // Search Function - filter() concept
     const searchFunc = () => {
         paraDiv.innerHTML = ''
-        let filteredArr = cars.filter((data) => {
+        let filteredArr = newArr.filter((data) => {
             return data.type.startsWith(searchBar.value)
         })
         filteredArr.forEach((data) => {
