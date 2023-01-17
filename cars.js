@@ -43,6 +43,55 @@ const cars = [
         "type": "truck",
         "registration": '2022-11-03',
         "capacity": 10
+    },
+
+    {
+        "color": "white",
+        "type": "hatchback",
+        "registration": '2023-1-03',
+        "capacity": 5
+    },
+
+    {
+        "color": "white",
+        "type": "convertible",
+        "registration": '2022-11-03',
+        "capacity": 5
+    },
+
+    {
+        "color": "black",
+        "type": "sportscar",
+        "registration": '2021-11-03',
+        "capacity": 3
+    },
+
+    {
+        "color": "silver",
+        "type": "coupe",
+        "registration": '2020-11-03',
+        "capacity": 5
+    },
+
+    {
+        "color": "golden",
+        "type": "supercar",
+        "registration": '2018-11-03',
+        "capacity": 2
+    },
+
+    {
+        "color": "grey",
+        "type": "van",
+        "registration": '2020-11-03',
+        "capacity": 4
+    },
+
+    {
+        "color": "silver",
+        "type": "campervan",
+        "registration": '2020-11-03',
+        "capacity": 7
     }
 ]
 
